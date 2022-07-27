@@ -1,3 +1,5 @@
+# lmao VRChat is kil
+
 # VRCMods
 Contains my mods and release for smaller mods I'm too lazy to make repo for
 ## Open Browser (OB)
